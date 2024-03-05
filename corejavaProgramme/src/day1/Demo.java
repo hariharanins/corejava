@@ -10,6 +10,7 @@ public class Demo {
 		a=n.nextInt();
 		b=n.nextInt();
 		c=a+b;
+		System.out.println(c);
 		
 		// TODO Auto-generated method stub
 
