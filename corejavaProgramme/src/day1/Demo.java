@@ -9,7 +9,7 @@ public class Demo {
 		System.out.println("enter the value of a and b");
 		a=n.nextInt();
 		b=n.nextInt();
-		c=a*b;
+		c=a+b;
 		System.out.println(c);
 		
 		// TODO Auto-generated method stub
