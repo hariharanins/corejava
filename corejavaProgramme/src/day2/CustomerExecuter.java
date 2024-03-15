@@ -18,12 +18,12 @@ public class CustomerExecuter {
 	       
 
 	       
-	       Customer c3= new Customer(); // default constructor
+	       Customer c3= new Customer(); // invoke default constructor
 	       System.out.println(c3);
 	       
 	       
 	       
-	      Customer c4 = new Customer( 02 , "hariharan", "chennai");
+	      Customer c4 = new Customer( 02 , "hariharan", "chennai"); // invoke paramaterized constructor
 	      System.out.println(c4);
 	}
 
