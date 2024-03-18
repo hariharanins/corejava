@@ -7,8 +7,8 @@ public class StaticMethod {
 	
 	//static block
 	static {
-		System.out.println("static variable");
-		//System.out.println("ID; "+id);//normal variable cont be declared in ststic blocl . only static variable is declared
+		System.out.println("staticvariable");
+		//System.out.println("ID; "+id);//normal variable cont be declared in static block . only static variable is declared
 		System.out.println("ROLL NO ; "+rollno);
 	}
 	

@@ -28,7 +28,7 @@ public class Person {
 		System.out.println("Default customer");
 		
 	}
-	public Person(String PersonName ,int PersonAge , String Personcity) {
+	public Person(String PersonName ,int PersonAge, String Personcity ) {
 		System.out.println("Paramaterized constructor");
 		this.personName = PersonName;
 		this.personAge = PersonAge;
