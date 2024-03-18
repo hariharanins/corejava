@@ -8,13 +8,13 @@ public class TextEditorDemo {
 		word.write("Hello, ");
 		word.formattext(true);
 		word.write("world!");
-		word.displaycontenet();
+		word.displaycontent();
 		
 		word.spellcheck();
 		
 		System.out.println("is text is wordpad bold?"+ word.isbold());
-System.out.println("disabling the spell check in word.");
-        word.enablespellCheck(false);
+        System.out.println("disabling the spell check in word.");
+        word.enablespellcheck(false);
         word.spellcheck();
 	}
 

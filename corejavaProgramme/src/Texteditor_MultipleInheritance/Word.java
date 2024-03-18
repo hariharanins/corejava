@@ -1,6 +1,6 @@
 package Texteditor_MultipleInheritance;
 
-public class Word {
+public class Word extends wordpad {
    private boolean spellcheckenabled;
    
    public Word() {
